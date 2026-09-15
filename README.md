@@ -1,6 +1,6 @@
 ### Hi there, I'm Moein Sarvi
 
-I am a senior B.Sc. student in Electrical Engineering. My research focuses on the intersection of deep learning and theoretical foundations, with a strong interest in building, optimizing, and interpreting mathematical models.
+I am a senior B.Sc. student in Electrical Engineering at Sharif University of Technology. My research focuses on the intersection of deep learning and theoretical foundations, with a strong interest in building, optimizing, and interpreting mathematical models.
 
 **Research Interests:**
 *   **Deep Generative Models:** Normalizing Flows, Diffusion Models, VAEs
@@ -10,4 +10,4 @@ I am a senior B.Sc. student in Electrical Engineering. My research focuses on th
 **Technical Stack:**
 *   Python (PyTorch, NumPy), MATLAB, LaTeX
 
-📫 **Contact:** mooeinabdollahisarvi@gmail.com | https://www.linkedin.com/in/moein-sarvi
+📫 **Contact:** mooeinabdollahisarvi@gmail.com | [LinkedIn](https://www.linkedin.com/in/moein-sarvi)
