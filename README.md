@@ -10,4 +10,4 @@ I am a senior B.Sc. student in Electrical Engineering at Sharif University of Te
 **Technical Stack:**
 *   Python (PyTorch, NumPy), MATLAB, LaTeX
 
-📫 **Contact:** mooeinabdollahisarvi@gmail.com | [LinkedIn](https://www.linkedin.com/in/moein-sarvi)
+ **Contact:** mooeinabdollahisarvi@gmail.com | [LinkedIn](https://www.linkedin.com/in/moein-sarvi)
