@@ -10,4 +10,4 @@ I am a senior B.Sc. student in Electrical Engineering. My research focuses on th
 **Technical Stack:**
 *   Python (PyTorch, NumPy), MATLAB, LaTeX
 
-📫 **Contact:** [Your Email] | [Your LinkedIn URL]
+📫 **Contact:** mooeinabdollahisarvi@gmail.com | https://www.linkedin.com/in/moein-sarvi
