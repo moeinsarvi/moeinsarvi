@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Moein Sarvi
 
-<!--
-**moeinsarvi/moeinsarvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a senior B.Sc. student in Electrical Engineering. My research focuses on the intersection of deep learning and theoretical foundations, with a strong interest in building, optimizing, and interpreting mathematical models.
 
-Here are some ideas to get you started:
+**Research Interests:**
+*   **Deep Generative Models:** Normalizing Flows, Diffusion Models, VAEs
+*   **Machine Learning:** Reinforcement Learning, LLM Interpretability & Steering
+*   **Theoretical Foundations:** High-Dimensional Probability, Convex & Numerical Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technical Stack:**
+*   Python (PyTorch, NumPy), MATLAB, LaTeX
+
+📫 **Contact:** [Your Email] | [Your LinkedIn URL]
