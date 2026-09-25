@@ -5,9 +5,11 @@ I am a senior B.Sc. student in Electrical Engineering at Sharif University of Te
 **Research Interests:**
 *   **Deep Generative Models:** Normalizing Flows, Diffusion Models, VAEs
 *   **Machine Learning:** Reinforcement Learning, LLM Interpretability & Steering
-*   **Theoretical Foundations:** High-Dimensional Probability, Convex & Numerical Optimization
+*   **Theoretical Foundations:** High-Dimensional Probability, Convex & non-Convex Optimization
 
 **Technical Stack:**
-*   Python (PyTorch, NumPy), MATLAB, LaTeX
+* **Languages:** Python, C/C++, MATLAB
+* **Frameworks & Libraries:** PyTorch, Hugging Face, TensorFlow, scikit-learn
+* **Tools:** Linux, Git
 
  **Contact:** mooeinabdollahisarvi@gmail.com | [LinkedIn](https://www.linkedin.com/in/moein-sarvi)
